@@ -7,7 +7,6 @@ var intervalId;
 var clockRunning = false;
 var time = 60;
 var isStarted = false;
-var buttons = ["q1t","q1f","q2t","q2f","q3t","q3f","q4t","q4f","q5t","q5f"];
 
 $(document).ready(function() {
   $("#start").on("click", function() {
