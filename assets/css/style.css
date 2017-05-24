@@ -1,0 +1,27 @@
+*{
+	text-align: center;
+}
+
+body{
+	background-image: url("../images/forest3.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1535px 735px;
+}
+
+#header, h2{
+	font-weight: bold;
+	
+}
+
+p, h2, h3, h4, h5, #displayTime{
+	color: white;
+	font-size: 30px;
+}
+
+#start {
+	height: 50px;
+	width: 175px;
+	opacity: 0.8;
+}
