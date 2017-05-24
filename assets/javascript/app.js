@@ -1,5 +1,3 @@
-//would like to display an image if get all 5 correct
-//resultsCorrect = 0; resultsWrong = 0; needs set back to zero after alerts and enable buttons
 var resultsCorrect =0;
 var resultsWrong =0;
 var unanswered =0;
